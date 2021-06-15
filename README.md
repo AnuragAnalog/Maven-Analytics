@@ -1,6 +1,8 @@
 # Maven Analytics
 
-My Visualizations to Challenges in the website
+My Visualizations to Challenges in the [website](https://www.mavenanalytics.io/)
+
+You can find more of my vizzes [here](https://public.tableau.com/profile/anurag.peddi/)
 
 ## Mexico Toy Sales
 
